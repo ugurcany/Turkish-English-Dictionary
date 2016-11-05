@@ -34,86 +34,86 @@ TurEngDictionary.getInstance().translateAsync(term, new TranslationCallback() {
 
 #### Output:
 ```
-fromLang: tr, toLang: en, categoryEN: Common Usage, categoryTR: Yaygın Kullanım, partOfSpeechEN: n., partOfSpeechTR: i., translation: lot
-fromLang: tr, toLang: en, categoryEN: Common Usage, categoryTR: Yaygın Kullanım, partOfSpeechEN: n., partOfSpeechTR: i., translation: cut
-fromLang: tr, toLang: en, categoryEN: Common Usage, categoryTR: Yaygın Kullanım, partOfSpeechEN: n., partOfSpeechTR: i., translation: share
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: allotment
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: dole
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: moiety
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: margin
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: quantum
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: percentage
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: toll
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: part
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: concern
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: kickback
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: hand
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: snack
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: proportion
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: numerator
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: portion
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: deal
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: quota
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: ration
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: shareout
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: contribution
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: dividend
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: divvy
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: interest
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: whack
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: slice
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: apportionment
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: take
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: desert
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: allocation
-fromLang: tr, toLang: en, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: share
-fromLang: tr, toLang: en, categoryEN: Idioms, categoryTR: Deyim, partOfSpeechEN: null, partOfSpeechTR: null, translation: bit of the action
-fromLang: tr, toLang: en, categoryEN: Idioms, categoryTR: Deyim, partOfSpeechEN: null, partOfSpeechTR: null, translation: piece (of the action)
-fromLang: tr, toLang: en, categoryEN: Idioms, categoryTR: Deyim, partOfSpeechEN: null, partOfSpeechTR: null, translation: slice of the action
-fromLang: tr, toLang: en, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: percentage
-fromLang: tr, toLang: en, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: stake
-fromLang: tr, toLang: en, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: lot
-fromLang: tr, toLang: en, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: interest
-fromLang: en, toLang: tr, categoryEN: Common Usage, categoryTR: Yaygın Kullanım, partOfSpeechEN: v., partOfSpeechTR: f., translation: ödemek
-fromLang: en, toLang: tr, categoryEN: Common Usage, categoryTR: Yaygın Kullanım, partOfSpeechEN: n., partOfSpeechTR: i., translation: ödeme
-fromLang: en, toLang: tr, categoryEN: Common Usage, categoryTR: Yaygın Kullanım, partOfSpeechEN: n., partOfSpeechTR: i., translation: ücret
-fromLang: en, toLang: tr, categoryEN: Irregular Verb, categoryTR: Irregular Verb, partOfSpeechEN: v., partOfSpeechTR: f., translation: paid - paid
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: vermek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: karşılığını vermek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: tediye etmek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: değmek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: eda etmek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: para vermek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: yarar sağlamak
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: yararına olmak
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: para saymak
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: toslamak
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: ödemek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: para ödemek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: cezasını çekmek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: etmek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: maaş dağıtmak
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: v., partOfSpeechTR: f., translation: ücret ödemek
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: maaş
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: ücret
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: tediye
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: ecir
-fromLang: en, toLang: tr, categoryEN: General, categoryTR: Genel, partOfSpeechEN: n., partOfSpeechTR: i., translation: ödenek
-fromLang: en, toLang: tr, categoryEN: Colloquial, categoryTR: Konuşma Dili, partOfSpeechEN: v., partOfSpeechTR: f., translation: uçlanmak
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: ücret
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: tediye
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: bedel
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: maaş
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: ödeme
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: tediye etmek
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: aylık
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: verme
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: karşılık
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: ödemek
-fromLang: en, toLang: tr, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi, partOfSpeechEN: null, partOfSpeechTR: null, translation: ödeme yapmak
-fromLang: en, toLang: tr, categoryEN: Law, categoryTR: Hukuk, partOfSpeechEN: null, partOfSpeechTR: null, translation: tediye etmek
-fromLang: en, toLang: tr, categoryEN: Technical, categoryTR: Teknik, partOfSpeechEN: null, partOfSpeechTR: null, translation: tediye etme
-fromLang: en, toLang: tr, categoryEN: Technical, categoryTR: Teknik, partOfSpeechEN: null, partOfSpeechTR: null, translation: su geçirmez veya empermeabl yapmak için katran veya zift ile kaplamak
+translation: lot, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: Common Usage, categoryTR: Yaygın Kullanım
+translation: cut, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: Common Usage, categoryTR: Yaygın Kullanım
+translation: share, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: Common Usage, categoryTR: Yaygın Kullanım
+translation: allotment, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: dole, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: moiety, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: margin, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: quantum, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: percentage, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: toll, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: part, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: concern, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: kickback, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: hand, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: snack, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: proportion, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: numerator, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: portion, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: deal, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: quota, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: ration, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: shareout, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: contribution, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: dividend, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: divvy, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: interest, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: whack, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: slice, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: apportionment, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: take, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: desert, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: allocation, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: share, fromLang: tr, toLang: en, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: bit of the action, fromLang: tr, toLang: en, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Idioms, categoryTR: Deyim
+translation: piece (of the action), fromLang: tr, toLang: en, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Idioms, categoryTR: Deyim
+translation: slice of the action, fromLang: tr, toLang: en, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Idioms, categoryTR: Deyim
+translation: percentage, fromLang: tr, toLang: en, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: stake, fromLang: tr, toLang: en, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: lot, fromLang: tr, toLang: en, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: interest, fromLang: tr, toLang: en, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: ödemek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: Common Usage, categoryTR: Yaygın Kullanım
+translation: ödeme, fromLang: en, toLang: tr, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: Common Usage, categoryTR: Yaygın Kullanım
+translation: ücret, fromLang: en, toLang: tr, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: Common Usage, categoryTR: Yaygın Kullanım
+translation: paid - paid, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: Irregular Verb, categoryTR: Irregular Verb
+translation: vermek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: karşılığını vermek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: tediye etmek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: değmek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: eda etmek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: para vermek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: yarar sağlamak, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: yararına olmak, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: para saymak, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: toslamak, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: ödemek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: para ödemek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: cezasını çekmek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: etmek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: maaş dağıtmak, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: ücret ödemek, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: General, categoryTR: Genel
+translation: maaş, fromLang: en, toLang: tr, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: ücret, fromLang: en, toLang: tr, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: tediye, fromLang: en, toLang: tr, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: ecir, fromLang: en, toLang: tr, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: ödenek, fromLang: en, toLang: tr, partOfSpeechEN: n., partOfSpeechTR: i., categoryEN: General, categoryTR: Genel
+translation: uçlanmak, fromLang: en, toLang: tr, partOfSpeechEN: v., partOfSpeechTR: f., categoryEN: Colloquial, categoryTR: Konuşma Dili
+translation: ücret, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: tediye, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: bedel, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: maaş, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: ödeme, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: tediye etmek, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: aylık, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: verme, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: karşılık, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: ödemek, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: ödeme yapmak, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Trade/Economic, categoryTR: Ticaret/Ekonomi
+translation: tediye etmek, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Law, categoryTR: Hukuk
+translation: tediye etme, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Technical, categoryTR: Teknik
+translation: su geçirmez veya empermeabl yapmak için katran veya zift ile kaplamak, fromLang: en, toLang: tr, partOfSpeechEN: null, partOfSpeechTR: null, categoryEN: Technical, categoryTR: Teknik
 ```
 
 

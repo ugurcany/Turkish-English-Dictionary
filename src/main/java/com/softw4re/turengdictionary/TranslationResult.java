@@ -28,13 +28,13 @@ public class TranslationResult {
 
     @Override
     public String toString() {
-        return "fromLang: " + fromLang + ", " +
+        return "translation: " + translation + ", " +
+                "fromLang: " + fromLang + ", " +
                 "toLang: " + toLang + ", " +
-                "categoryEN: " + categoryEN + ", " +
-                "categoryTR: " + categoryTR + ", " +
                 "partOfSpeechEN: " + partOfSpeechEN + ", " +
                 "partOfSpeechTR: " + partOfSpeechTR + ", " +
-                "translation: " + translation;
+                "categoryEN: " + categoryEN + ", " +
+                "categoryTR: " + categoryTR;
     }
 
 }
