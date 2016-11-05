@@ -1,7 +1,5 @@
 package com.softw4re.turengdictionary;
 
-import com.softw4re.turengdictionary.model.Translation;
-
 import java.util.List;
 
 /**
@@ -9,7 +7,7 @@ import java.util.List;
  */
 public interface TranslationCallback {
 
-    void onSuccess(List<Translation> translationList);
+    void onSuccess(List<Translation> translations);
 
     void onError(String message);
 

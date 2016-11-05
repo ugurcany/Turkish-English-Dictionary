@@ -1,11 +1,15 @@
 package com.softw4re.turengdictionary;
 
+import retrofit2.Call;
+import retrofit2.http.Body;
+import retrofit2.http.POST;
+
 /**
  * Created by ugurc on 4.11.2016.
  */
-public interface Service {
+interface Service {
 
-    /*@GET("users/{user}/repos")
-    Call<List<Repo>> listRepos(@Path("user") String user);*/
+    @POST("Search")
+    Call<ResponseBody> search(@Body RequestBody requestBody);
 
 }

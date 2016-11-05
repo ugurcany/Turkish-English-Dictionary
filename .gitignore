@@ -4,7 +4,8 @@
 .idea/modules.xml
 .idea/workspace.xml
 *.iml
-/src/main/java/com/softw4re/turengdictionary/TestApp.java
 target/
 src/main/resources/
 src/test/
+/src/main/java/com/softw4re/turengdictionary/testapp/
+/src/main/java/com/softw4re/turengdictionary/testapp/TestApp.java
