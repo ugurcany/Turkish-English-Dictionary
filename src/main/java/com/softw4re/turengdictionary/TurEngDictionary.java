@@ -50,10 +50,10 @@ public class TurEngDictionary {
                 if(response.isSuccessful()){
                     ResponseBody responseBody = response.body();
 
-                    ArrayList<Translation> translations = new ArrayList<>();
+                    ArrayList<TranslationResult> translationResults = new ArrayList<>();
 
                     for(ResponseBody.Result result : responseBody.result.results){
-                        String term = result.term;
+                        String translation = result.term;
 
                         int arrowIndex = result.categoryEn.indexOf("->");
                         String fromLang = result.categoryEn.substring(arrowIndex-2, arrowIndex);
@@ -62,11 +62,20 @@ public class TurEngDictionary {
                         String partOfSpeechEN = result.typeEn;
                         String partOfSpeechTR = result.typeTr;
 
-                        Translation translation = new Translation(term, fromLang, toLang, partOfSpeechEN, partOfSpeechTR);
-                        translations.add(translation);
+                        arrowIndex = result.categoryEn.indexOf("->");
+                        String categoryEN = result.categoryEn.substring(0, arrowIndex-4);
+
+                        arrowIndex = result.categoryTr.indexOf("->");
+                        String categoryTR = result.categoryTr.substring(0, arrowIndex-4);
+
+                        TranslationResult translationResult = new TranslationResult(translation,
+                                fromLang, toLang,
+                                partOfSpeechEN, partOfSpeechTR,
+                                categoryEN, categoryTR);
+                        translationResults.add(translationResult);
                     }
 
-                    translationCallback.onSuccess(translations);
+                    translationCallback.onSuccess(translationResults);
                 }
                 else{
                     translationCallback.onError("Service error!");
@@ -80,7 +89,7 @@ public class TurEngDictionary {
 
     }
 
-
+    //HELPER METHODS
     private String md5(String term){
         String str = term + CODE;
         try {

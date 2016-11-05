@@ -2,7 +2,7 @@ package com.softw4re.turengdictionary.testapp;
 
 import com.softw4re.turengdictionary.TranslationCallback;
 import com.softw4re.turengdictionary.TurEngDictionary;
-import com.softw4re.turengdictionary.Translation;
+import com.softw4re.turengdictionary.TranslationResult;
 
 import java.util.List;
 
@@ -17,9 +17,9 @@ public class TestApp {
 
         TurEngDictionary.getInstance().translateAsync(term, new TranslationCallback() {
             @Override
-            public void onSuccess(List<Translation> translations) {
-                for (Translation translation : translations) {
-                    System.out.println(translation);
+            public void onSuccess(List<TranslationResult> translationResults) {
+                for (TranslationResult translationResult : translationResults) {
+                    System.out.println(translationResult);
                 }
             }
 

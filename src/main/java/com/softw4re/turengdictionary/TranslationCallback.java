@@ -7,7 +7,7 @@ import java.util.List;
  */
 public interface TranslationCallback {
 
-    void onSuccess(List<Translation> translations);
+    void onSuccess(List<TranslationResult> translationResults);
 
     void onError(String message);
 
